@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-Hello! I'm Mahmoud Montser, an innovative Software Engineer with expertise in **Cloud Integration**, **API Development**, and **Full-Stack Development**. I have a strong passion for solving complex problems and am always looking to contribute to impactful projects.
+Hello! I'm Mahmoud Montser, an innovative Software Engineer with expertise in **Cloud Integration**, **API Development**, and **Full-Stack Development**. I am passionate about solving complex problems and always want to contribute to impactful projects.
 
 ## 📝 Curriculum Vitae
 
